@@ -1,7 +1,7 @@
 {
   "name": "youtube-audio-stream",
   "description": "youtube-audio-stream",
-  "version": "0.0.48",
+  "version": "0.0.50",
   "repository": {
     "type": "git",
     "url": "git://github.com/jameskyburz/youtube-audio-stream.git"
@@ -22,7 +22,7 @@
     "fluent-ffmpeg": "2.1.2",
     "through2": "2.0.3",
     "xtend": "4.0.1",
-    "ytdl-core": "0.13.2"
+    "ytdl-core": "0.20.2"
   },
   "devDependencies": {
     "@types/node": "^8.0.17",
